@@ -11,7 +11,7 @@ I'm Aleksandar Zdravković, a passionate second-year Computer Science student at
 I'm actively looking for a job opportunity in the field of **Machine Learning**. I'm keen to apply my academic knowledge to real-world projects, striving to gain practical experience and contribute value.
 
 ## 🔍 Skills & Experience
-- **Languages**: Proficient in Python
+- **Languages**: Python, C++, Java
 - **Frameworks/Libraries**: Tensorflow, Keras, scikit-learn
 - **Concepts**: Supervised Learning, Unsupervised Learning
 
@@ -24,4 +24,5 @@ I'm actively looking for a job opportunity in the field of **Machine Learning**.
 Feel free to reach out to me if you know of any opportunities or if you're interested in collaborating on a project!
 
 - 📧 Email: zdravkovic.aleksandar21@gmail.com
-- 🔗 LinkedIn: https://www.linkedin.com/in/aleksandar-zdravkovic-b02038253/(#)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/aleksandar-zdravkovic-b02038253/)
+- 📄 [Resume](https://github.com/acaZdr/acaZdr/blob/main/Aleksandar%20Zdravkovic%20-%20CV.pdf)
