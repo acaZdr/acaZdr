@@ -1,6 +1,6 @@
 # Hello there! 👋
 
-I'm Aleksandar Zdravković, a passionate second-year Computer Science student at the Faculty of Sciences.
+I'm Aleksandar Zdravković, a passionate third-year Computer Science student at the Faculty of Sciences.
 
 ## 🎓 Education
 - **Computer Science**, Faculty of Sciences, *2022-2025*
