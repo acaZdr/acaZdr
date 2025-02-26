@@ -7,7 +7,7 @@ I'm **Aleksandar Zdravković**, a passionate third-year Computer Science student
   - Focused on: **Machine Learning**, Data Analytics, Probability, Artificial Intelligence, Databases, Data Structures and Algorithms
   - Completed all my coursework with the highest grade
 
-## 💼 Current Opportunity
+## 💼 Current job
 - **Data Scientist I**, *Ominimo Insurance* (Starting March 2025)
   - Excited to apply my academic knowledge to real-world data problems and contribute to the growth of the company.
 
