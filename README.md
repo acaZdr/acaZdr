@@ -1,14 +1,15 @@
 # Hello there! 👋
 
-I'm Aleksandar Zdravković, a passionate third-year Computer Science student at the Faculty of Sciences.
+I'm **Aleksandar Zdravković**, a passionate third-year Computer Science student at the Faculty of Sciences.
 
 ## 🎓 Education
 - **Computer Science**, Faculty of Sciences, *2022-2025*
-  - Focused on: **Machine Learning**, Data Analytics, Probability, Artificial Intelligence, Databases
+  - Focused on: **Machine Learning**, Data Analytics, Probability, Artificial Intelligence, Databases, Data Structures and Algorithms
   - Completed all my coursework with the highest grade
 
-## 💼 Seeking Opportunities
-I'm actively looking for a job opportunity in the field of **Machine Learning**. I'm keen to apply my academic knowledge to real-world projects, striving to gain practical experience and contribute value.
+## 💼 Current Opportunity
+- **Data Scientist I**, *Ominimo Insurance* (Starting March 2025)
+  - Excited to apply my academic knowledge to real-world data problems and contribute to the growth of the company.
 
 ## 🔍 Skills & Experience
 - **Languages**: Python, C++, Java
@@ -17,7 +18,7 @@ I'm actively looking for a job opportunity in the field of **Machine Learning**.
 
 ## 🌱 Goals
 - 🛠 Engage in real-world projects to apply my skills.
-- 📚 Continuously learn and adapt in the rapidly evolving field of machine learning.
+- 📚 Continuously learn and adapt in the rapidly evolving field of machine learning and data science.
 - 🤝 Collaborate with professionals in the industry and grow together.
 
 ## Let's Connect! 🌐
